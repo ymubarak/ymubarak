@@ -3,7 +3,7 @@
 A Software engineer that:
 - 🍀 is passionate about Software Development and Design.<br>
 - 🤖 has a keen interest in Data Science, Machine Learning, and AI.<br>
-- 🧰 has an obsession with productivity tools, dev extensions, and plugins of any type.<br>
+- 🧰 obsessesed with productivity tools and dev extensions.<br>
 - 🐚 lives in shells and terminals.<br>
 - 🦉 works at night.<br>
 
