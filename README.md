@@ -1,9 +1,9 @@
 ## About Me
 
-- 🍀 an enthusiast, spellbound by the art of Software Development and Design.<br>
-- 🤖 a curious sailor into the vast seas of AI, Machine Learning, and Data Science.<br>
-- 🐚 you'll often find me cozying up in shells and exploring the terminal world.
-- 🧰 fancy a nerdy tête-à-tête about all things productivity? Let's geek out about productivity tools, extensions, and the coolest dev plugins out there.<br>
+- 🍀 talk to me about the art of Software Development and Design.<br>
+- 🤖 curious about AI, Machine Learning, and Data Science.<br>
+- 🐚 often cozying up in shells and terminals.
+- 🧰 fancy a nerdy tête-à-tête about all things productivity? Let's geek out about the coolest tools out there.<br>
 - A night 🦉 attempting to become an early 🐦 – because even nocturnal programmers need their bit of sunshine and morning coffee! ☕🌅
 
 ## Socials
