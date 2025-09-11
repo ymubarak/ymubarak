@@ -1,11 +1,3 @@
-## About Me
-
-- 🍀 talk to me about the art of Software Development and Design.<br>
-- 🤖 curious about AI, Machine Learning, and Data Science.<br>
-- 🐚 often cozying up in shells and terminals.
-- 🧰 fancy a nerdy tête-à-tête about all things productivity? Let's geek out about the coolest tools out there.<br>
-- A night 🦉 attempting to become an early 🐦 – because even nocturnal programmers need their bit of sunshine and morning coffee! ☕🌅
-
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mubarak) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16556051/youssef-mubarak)
